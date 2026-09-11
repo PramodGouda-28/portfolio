@@ -175,6 +175,62 @@ body{
     line-height: 1.8;
     margin-bottom: 20px;
 }
+
+/* ================= INTERNSHIP ================= */
+
+.internship {
+    min-height: 50vh;
+    padding: 100px 8%;
+}
+
+.internship h2 {
+    font-size: 40px;
+    color: #3B82F6;
+    margin-bottom: 40px;
+}
+
+.internship-card {
+    max-width: 900px;
+    padding: 30px;
+    background: #111827;
+    border: 1px solid #1f2937;
+    border-radius: 12px;
+}
+
+.internship-card h3 {
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 8px;
+}
+
+.internship-card h4 {
+    font-size: 18px;
+    color: #3B82F6;
+    margin-bottom: 10px;
+}
+
+.internship-duration {
+    color: #94a3b8;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.internship-card p {
+    color: #cbd5e1;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+.internship-card ul {
+    padding-left: 20px;
+}
+
+.internship-card li {
+    color: #cbd5e1;
+    line-height: 1.8;
+    margin-bottom: 8px;
+}
+
 /* SKILLS SECTION */
 
 .skills {
@@ -469,6 +525,18 @@ body{
     .contact h2 {
         font-size: 32px;
     }
+
+    .internship {
+    padding: 70px 5%;
+}
+
+.internship h2 {
+    font-size: 32px;
+}
+
+.internship-card {
+    padding: 22px;
+}
 
 }
 /* FOOTER */
